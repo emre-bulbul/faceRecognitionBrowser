@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "./PyQt5BrowserBuild-master/PyQt5BrowserBuild-master"
+  ]
+}

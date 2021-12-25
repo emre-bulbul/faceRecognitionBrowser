@@ -1,0 +1,6 @@
+{
+  "defaultSearchEngine": "Google",
+  "startupPage": "https://browser-new-tab.netlify.app",
+  "newTabPage": "https://browser-new-tab.netlify.app",
+  "homeButtonPage": "https://browser-new-tab.netlify.app"
+}
